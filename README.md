@@ -1,0 +1,2 @@
+# IOT-BASED-FIRESTORM-DETECTION-USING-ARDUINO-
+IoT-based firestorm detection is a very useful concept because in a forest some of the remote areas we can’t communicate or monitor those areas, it will process than it will send the data to operators by using cloud storage. Fire outbreak has been a common issue in forests and large buildings. In this research we will detect forest fires by using flame sensor and image processing. We can read RGB values when fire has been occured
